@@ -1,0 +1,19 @@
+body {
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+img {
+    border-radius: 20px;
+}
+
+fieldset {
+    margin: 20px;
+    padding: 20px;
+}
+
+ol, ul {
+    display: inline-block;
+}
+
